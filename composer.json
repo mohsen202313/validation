@@ -1,0 +1,17 @@
+{
+    "name": "mohsen/pr3",
+    "description": "empty",
+    "autoload": {
+        "psr-4": {
+            "Mohsen\\Pr3\\": "src/",
+            "mohsenValidation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohsen",
+            "email": "mohsenshykholeslami@gmail.com"
+        }
+    ],
+    "require": {}
+}
