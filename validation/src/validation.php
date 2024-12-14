@@ -6,4 +6,12 @@ class validation
     {
         return isset($data[$filed]);
     }
+    public function get()
+    {
+
+    }
+    public function set()
+    {
+
+    }
 }
